@@ -1,9 +1,9 @@
 {
-  "name": "code-oss-dev",
+  "name": "toast-code-dev",
   "version": "1.104.0",
   "distro": "69861287f4af04d36b926eb311cccb4b5680a018",
   "author": {
-    "name": "Microsoft Corporation"
+    "name": "Toast Stuff"
   },
   "license": "MIT",
   "main": "./out/main.js",
@@ -229,10 +229,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/microsoft/vscode.git"
+    "url": "https://github.com/thetoasta/toastcode.git"
   },
   "bugs": {
-    "url": "https://github.com/microsoft/vscode/issues"
+    "url": "https://github.com/thetoasta/toastcode/issues"
   },
   "optionalDependencies": {
     "windows-foreground-love": "0.5.0"
