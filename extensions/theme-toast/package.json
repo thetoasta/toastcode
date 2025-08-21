@@ -1,0 +1,32 @@
+{
+  "name": "theme-toast",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "version": "1.0.0",
+  "publisher": "toast-stuff",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "id": "Toast",
+        "label": "%themeLabel%",
+        "uiTheme": "vs",
+        "path": "./themes/toast-color-theme.json"
+      },
+      {
+        "id": "Toast Dark",
+        "label": "%themeDarkLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/toast-dark-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thetoasta/toastcode.git"
+  }
+}

@@ -1,53 +1,65 @@
-# Visual Studio Code - Open Source ("Code - OSS")
+# Toast Code by Toast Stuff
 
-[![Feature Requests](https://img.shields.io/github/issues/microsoft/vscode/feature-request.svg)](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
-[![Bugs](https://img.shields.io/github/issues/microsoft/vscode/bug.svg)](https://github.com/microsoft/vscode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
-[![Gitter](https://img.shields.io/badge/chat-on%20gitter-yellow.svg)](https://gitter.im/Microsoft/vscode)
+[![Feature Requests](https://img.shields.io/github/issues/thetoasta/toastcode/feature-request.svg)](https://github.com/thetoasta/toastcode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+[![Bugs](https://img.shields.io/github/issues/thetoasta/toastcode/bug.svg)](https://github.com/thetoasta/toastcode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
 
 ## The Repository
 
-This repository ("`Code - OSS`") is where we (Microsoft) develop the [Visual Studio Code](https://code.visualstudio.com) product together with the community. Not only do we work on code and issues here, we also publish our [roadmap](https://github.com/microsoft/vscode/wiki/Roadmap), [monthly iteration plans](https://github.com/microsoft/vscode/wiki/Iteration-Plans), and our [endgame plans](https://github.com/microsoft/vscode/wiki/Running-the-Endgame). This source code is available to everyone under the standard [MIT license](https://github.com/microsoft/vscode/blob/main/LICENSE.txt).
+Welcome to **Toast Code** - the warmest, most delightful code editor experience! 🍞✨
 
-## Visual Studio Code
+This repository is where we (Toast Stuff) develop Toast Code together with our amazing community. Not only do we work on code and issues here, but we also share our vision of making coding as cozy and enjoyable as fresh-baked toast. This source code is available to everyone under the standard [MIT license](https://github.com/thetoasta/toastcode/blob/main/LICENSE.txt).
+
+## Toast Code by Toast Stuff
 
 <p align="center">
-  <img alt="VS Code in action" src="https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png">
+  <img alt="Toast Code in action - bringing warmth to your coding experience" src="https://user-images.githubusercontent.com/35271042/118224532-3842c400-b438-11eb-923d-a5f66fa6785a.png">
 </p>
 
-[Visual Studio Code](https://code.visualstudio.com) is a distribution of the `Code - OSS` repository with Microsoft-specific customizations released under a traditional [Microsoft product license](https://code.visualstudio.com/License/).
+[Toast Code](https://github.com/thetoasta/toastcode) is a lovingly crafted code editor that combines the simplicity of buttered toast with the power developers need for their core edit-build-debug cycle. Built on the foundation of VS Code, it provides comprehensive code editing, navigation, and understanding support along with delightful theming, a rich extensibility model, and seamless integration with existing tools.
 
-[Visual Studio Code](https://code.visualstudio.com) combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
+Toast Code is the perfect companion for developers who want their coding environment to be as warm and inviting as their morning breakfast. Every feature is designed with care, every interaction polished to perfection, bringing joy to your daily development workflow.
 
-Visual Studio Code is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on [Visual Studio Code's website](https://code.visualstudio.com/Download). To get the latest releases every day, install the [Insiders build](https://code.visualstudio.com/insiders).
+## Why Toast Code?
+
+🍞 **Warm & Cozy Experience** - A delightful interface that makes coding feel like home  
+🎨 **Beautiful Themes** - Carefully crafted color schemes inspired by golden toast and cozy mornings  
+⚡ **Lightning Fast** - All the performance you need without sacrificing comfort  
+🔧 **Highly Extensible** - Customize your editor to match your perfect toast preferences  
+🌟 **Community Driven** - Built with love by developers, for developers
 
 ## Contributing
 
-There are many ways in which you can participate in this project, for example:
+There are many ways to help make Toast Code even more delightful:
 
-* [Submit bugs and feature requests](https://github.com/microsoft/vscode/issues), and help us verify as they are checked in
-* Review [source code changes](https://github.com/microsoft/vscode/pulls)
-* Review the [documentation](https://github.com/microsoft/vscode-docs) and make pull requests for anything from typos to additional and new content
+* [Submit bugs and feature requests](https://github.com/thetoasta/toastcode/issues), and help us verify as they are checked in
+* Review [source code changes](https://github.com/thetoasta/toastcode/pulls)
+* Share your Toast Code setup and themes with the community
+* Help us spread the warmth by telling other developers about Toast Code
 
 If you are interested in fixing issues and contributing directly to the code base,
-please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
+please see the document [How to Contribute](https://github.com/thetoasta/toastcode/wiki/How-to-Contribute), which covers the following:
 
-* [How to build and run from source](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
-* [The development workflow, including debugging and running tests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging)
-* [Coding guidelines](https://github.com/microsoft/vscode/wiki/Coding-Guidelines)
-* [Submitting pull requests](https://github.com/microsoft/vscode/wiki/How-to-Contribute#pull-requests)
-* [Finding an issue to work on](https://github.com/microsoft/vscode/wiki/How-to-Contribute#where-to-contribute)
-* [Contributing to translations](https://aka.ms/vscodeloc)
+* [How to build and run from source](https://github.com/thetoasta/toastcode/wiki/How-to-Contribute)
+* [The development workflow, including debugging and running tests](https://github.com/thetoasta/toastcode/wiki/How-to-Contribute#debugging)
+* [Coding guidelines](https://github.com/thetoasta/toastcode/wiki/Coding-Guidelines)
+* [Submitting pull requests](https://github.com/thetoasta/toastcode/wiki/How-to-Contribute#pull-requests)
+* [Finding an issue to work on](https://github.com/thetoasta/toastcode/wiki/How-to-Contribute#where-to-contribute)
 
-## Feedback
+## Feedback & Community
 
-* Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/vscode)
+* Ask a question on [Stack Overflow](https://stackoverflow.com/questions/tagged/toast-code)
 * [Request a new feature](CONTRIBUTING.md)
-* Upvote [popular feature requests](https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
-* [File an issue](https://github.com/microsoft/vscode/issues)
-* Connect with the extension author community on [GitHub Discussions](https://github.com/microsoft/vscode-discussions/discussions) or [Slack](https://aka.ms/vscode-dev-community)
-* Follow [@code](https://twitter.com/code) and let us know what you think!
+* Upvote [popular feature requests](https://github.com/thetoasta/toastcode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
+* [File an issue](https://github.com/thetoasta/toastcode/issues)
+* Connect with the Toast Code community and share your cozy coding setups
+* Follow us and let us know how Toast Code has warmed up your development experience!
 
-See our [wiki](https://github.com/microsoft/vscode/wiki/Feedback-Channels) for a description of each of these channels and information on some other available community-driven channels.
+See our [wiki](https://github.com/thetoasta/toastcode/wiki/Feedback-Channels) for a description of each of these channels and information on other community-driven channels.
+
+---
+
+*Made with ❤️ and lots of ☕ by Toast Stuff*  
+*"Because every great day starts with perfect toast... and perfect code!"*
 
 ## Related Projects
 

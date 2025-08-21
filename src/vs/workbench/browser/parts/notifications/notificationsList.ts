@@ -268,7 +268,7 @@ export class NotificationAccessibilityProvider implements IListAccessibilityProv
 	}
 
 	getWidgetAriaLabel(): string {
-		return this._options.widgetAriaLabel ?? localize('notificationsList', "Notifications List");
+		return this._options.widgetAriaLabel ?? localize('notificationsList', "Toast Code Notifications - Fresh notifications, served warm!");
 	}
 
 	getRole(): AriaRole {
