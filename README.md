@@ -1,4 +1,4 @@
-# Toast Code by Toast Stuff
+# Toast Code by Toast Stuffs
 
 [![Feature Requests](https://img.shields.io/github/issues/thetoasta/toastcode/feature-request.svg)](https://github.com/thetoasta/toastcode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc)
 [![Bugs](https://img.shields.io/github/issues/thetoasta/toastcode/bug.svg)](https://github.com/thetoasta/toastcode/issues?utf8=✓&q=is%3Aissue+is%3Aopen+label%3Abug)
